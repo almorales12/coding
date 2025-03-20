@@ -29,7 +29,7 @@ def sing_song():
         ("I may not be with you", 0.07),
         ("But you've got to hold on", 0.07),
         ("They'll see in time", 0.08),
-        ("I know", 0.07),
+        ("I know, nawa", 0.07),
     ]
     delays = [0.3, 3.2, 5.8, 8.3, 10.6, 15.5, 20.8, 23.4, 26.0, 28.5, 31.2, 36.0]
     
